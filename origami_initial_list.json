@@ -1,0 +1,6 @@
+{"_id":{"$oid":"5d348eb21622cc1f6cbda63d"},"name":"Batman","author":"Ángel Morollón Guallar","difficulty":"Medium"}
+{"_id":{"$oid":"5d348f201622cc1f6cbda63e"},"name":"Rose","author":"Toshikazu Kawasaki","difficulty":"Hard"}
+{"_id":{"$oid":"5d348f9a567e221f6c0a5615"},"name":"Tyrannosaurus Rex (Slim Version)","author":"John Montroll","difficulty":"Medium"}
+{"_id":{"$oid":"5d34905a567e221f6c0a5616"},"name":"Tyrannosaurus Rex (Fat Version)","author":"Yoshihide Momotani","difficulty":"Easy"}
+{"_id":{"$oid":"5d3490cb567e221f6c0a5617"},"name":"Frog","author":"Unknown","difficulty":"Easy"}
+{"_id":{"$oid":"5d34912f567e221f6c0a5618"},"name":"Orizuru (Crane)","author":"Unknown","difficulty":"Easy"}
